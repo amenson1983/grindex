@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/grindex_ukraine.iml" filepath="$PROJECT_DIR$/.idea/grindex_ukraine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/grindex.iml" filepath="$PROJECT_DIR$/.idea/grindex.iml" />
     </modules>
   </component>
 </project>
